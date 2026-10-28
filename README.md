@@ -1,5 +1,5 @@
 # automated-pdf-invoice-to-excel-parser[README.md](https://github.com/user-attachments/files/34102450/README.md)
-> **WINDOWS EXECUTABLE — FLAT $25:** Non-technical users can purchase the ready-to-run Windows Executable (.exe) version by transferring **$25 directly via Cash App to `$YOUR_CASHAPP_HANDLE` or via Venmo to `@YOUR_VENMO_HANDLE`**. Contact **YOUR_DELIVERY_CONTACT** with your payment reference to receive the download. No Python installation is needed for the packaged executable.
+> **WINDOWS EXECUTABLE — FLAT $25:** Non-technical users can purchase the ready-to-run Windows Executable (.exe) version by transferring **$25 directly via Cash App to `$KennyGonzalezR` or via Venmo to `@Kenny-Gonzalez-68`. Contact Cozypanda64@gmail.com with your payment reference to receive the download. No Python installation is needed for the packaged executable.
 >
 > **Publisher setup:** Replace both payment placeholders and the delivery contact before publishing. Build and test the executable on Windows before accepting orders. This source download does not include an executable.
 
